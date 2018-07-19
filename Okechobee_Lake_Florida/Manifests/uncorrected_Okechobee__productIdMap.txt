@@ -1,0 +1,3 @@
+# Product ID Map
+ProductID	ProductType	ProductLocation
+0	OL_1_EFR	C:\Users\Chintan Maniyar\subset_0_of_S3A_OL_1_EFR____20180702T152535_20180702T152835_20180703T212626_0180_033_068_2520_MAR_O_NT_002.SEN3_reprojected.dim
